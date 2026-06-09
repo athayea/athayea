@@ -3,7 +3,7 @@
 </p>
 # Hi, I'm Talita👋
 
-Im a Software Development Student in South Jakarta.
+Im a Junior Web Developer.
 
 ## About Me
 - 🎓 Software Development Student
