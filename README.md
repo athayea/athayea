@@ -9,7 +9,7 @@ Im a Software Development Student in South Jakarta.
 - 📫 Email: azraataya@gmail.com
 
 ## Tech Stack
-HTML • CSS • JavaScript • PHP • Laravel • MySQL
+HTML • CSS • JavaScript • Bootstrap • PHP • MySQL
 
 ## Featured Projects
 - Website Project Exhibition at Museum Basoeki Abdullah
