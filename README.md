@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Talita👋
 
-<!--
-**athayea/athayea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a Software Development Student in South Jakarta.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Software Development Student
+- 💻 Interested in Web Development
+- 🌱 Currently learning Laravel & React
+- 📫 Email: azraataya@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+HTML • CSS • JavaScript • PHP • Laravel • MySQL
+
+## Featured Projects
+- Website Project Exhibition at Museum Basoeki Abdullah
+- Online Course Company Website for UKK
+- Personal Portfolio Website
