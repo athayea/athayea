@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%">
+</p>
 # Hi, I'm Talita👋
 
 Im a Software Development Student in South Jakarta.
